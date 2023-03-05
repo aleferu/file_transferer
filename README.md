@@ -1,6 +1,6 @@
 # file_transferer
 
-Program written in rust to transfer a file to other PC using a valid TCP connection.
+Program written in rust to transfer a file to another PC using a valid TCP connection.
 
 ## Installation
 
