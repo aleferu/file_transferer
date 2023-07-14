@@ -16,7 +16,7 @@ or
 cargo build
 ```
 
-It's only one file so rustc works too.
+It's only one file so rustc works aswell.
 
 ```bash
 rustc src/main.rs
