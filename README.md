@@ -56,10 +56,13 @@ The PC receiving the file doesn't need much. You can choose the file path you wa
 file_transferer receive 11.22.33.44:24865 path_to_file
 ```
 
-## Things that will probably change
+## Things that I was thinking to change
 
 * Multi-threading.
 * Buffered read/write?
 * Maybe not removing file if exists.
 * Maybe you could send the file name? But then we go back to the 3rd.
 * Suggestions are always welcome! Feel free to message me anywhere you find me.
+
+But I started [nas-at-home](https://github.com/aleferu/nas-at-home) so these are probably not happening.
+
